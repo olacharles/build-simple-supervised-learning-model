@@ -1,0 +1,5 @@
+12. Disciplinary failure (yes=1; no=0)
+13. Education (high school (1), graduate (2), postgraduate (3), master and doctor (4))
+14. Son (number of children)
+15. Social drinker (yes=1; no=0)
+16. Social smoker (yes=1; no=0)
